@@ -6,6 +6,13 @@ using namespace std;
 void heapify(int arr[], int n, int i) {
     int largest = i;       // Initialize largest as root
 
+    int left = 2 * i + 1;  
+     
+
+    
+    
+        
+
 
 
 
