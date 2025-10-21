@@ -13,6 +13,23 @@ void heapify(int arr[], int n, int i) {
     if (left < n && arr[left] > arr[largest])
         largest = left;
 
+    // If right child is larger than largest so far
+    
+        
+
+    
+    
+         
+        
+
+
+   
+    
+        
+          
+
+
+
 
 
 
