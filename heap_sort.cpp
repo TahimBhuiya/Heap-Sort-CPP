@@ -18,7 +18,7 @@ void heapify(int arr[], int n, int i) {
         largest = right;
 
     // If largest is not root
-    
+    if (largest != i) {
          
         
 
