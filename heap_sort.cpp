@@ -20,7 +20,7 @@ void heapify(int arr[], int n, int i) {
     // If largest is not root
     if (largest != i) {
         swap(arr[i], arr[largest]); // Swap root and largest
-        
+        heapify(arr, n, largest);
 
 
    
