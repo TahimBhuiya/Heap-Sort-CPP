@@ -30,7 +30,7 @@ void heapSort(int arr[], int n) {
     for (int i = n / 2 - 1; i >= 0; i--)
         heapify(arr, n, i);
 
-    
+    // Extract elements one by one from the heap
     
 
 
