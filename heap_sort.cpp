@@ -31,7 +31,7 @@ void heapSort(int arr[], int n) {
         heapify(arr, n, i);
 
     // Extract elements one by one from the heap
-    
+    for (int i = n - 1; i >= 0; i--) {}}
 
 
    
