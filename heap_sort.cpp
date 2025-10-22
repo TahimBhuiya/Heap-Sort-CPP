@@ -28,7 +28,7 @@ void heapify(int arr[], int n, int i) {
 void heapSort(int arr[], int n) {
     // Build a max-heap
     for (int i = n / 2 - 1; i >= 0; i--)
-        
+        heapify(arr, n, i);
 
     
     
