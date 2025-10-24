@@ -33,7 +33,7 @@ void heapSort(int arr[], int n) {
     // Extract elements one by one from the heap
     for (int i = n - 1; i >= 0; i--) {
         // Move current root (largest) to the end
-        
+        swap(arr[0], arr[i]);
 
         
         
