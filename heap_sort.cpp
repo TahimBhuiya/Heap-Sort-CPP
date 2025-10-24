@@ -41,5 +41,5 @@ void heapSort(int arr[], int n) {
 }
 
 // Function to print an array
-
+void printArray(int arr[], int n) {
     
