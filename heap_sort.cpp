@@ -40,6 +40,6 @@ void heapSort(int arr[], int n) {
     }
 }
 
-
+// Function to print an array
 
     
