@@ -48,7 +48,7 @@ void printArray(int arr[], int n) {
 
 }
 
-
+// Main function
 int main() {
     
     
