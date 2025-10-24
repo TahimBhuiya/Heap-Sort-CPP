@@ -56,6 +56,6 @@ int main() {
     cout << "Original array: ";
     printArray(arr, n);
 
-    
+    heapSort(arr, n);
 
 }
