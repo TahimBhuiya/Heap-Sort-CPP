@@ -63,7 +63,7 @@ int main() {
     // Call the heapSort function to sort the array
     heapSort(arr, n);
 
-    
+    // Display the sorted array
     cout << "Sorted array: ";
     printArray(arr, n);
 
