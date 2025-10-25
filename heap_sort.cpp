@@ -57,5 +57,9 @@ int main() {
     printArray(arr, n);
 
     heapSort(arr, n);
+    cout << "Sorted array: ";
+    
+
+    
 
 }
