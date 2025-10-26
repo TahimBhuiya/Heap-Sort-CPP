@@ -60,7 +60,7 @@ int main() {
 
     // Display the original unsorted array
     cout << "Original array: ";
-    printArray(arr, n);
+    printArray(arr, n); //printed the array as unsorted
 
     // Call the heapSort function to sort the array
     heapSort(arr, n);
