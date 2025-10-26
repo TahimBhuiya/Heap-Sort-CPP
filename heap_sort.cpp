@@ -67,7 +67,7 @@ int main() {
 
     // Display the sorted array
     cout << "Sorted array: ";
-    printArray(arr, n); //printed the array as sorted now
+    printArray(arr, n); //Printed the array as sorted now
 
     return 0; //return 0
 
