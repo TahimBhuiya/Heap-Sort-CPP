@@ -9,3 +9,7 @@ This C++ program demonstrates the **Heap Sort** algorithm, an efficient comparis
 3. Maintains the heap property after each extraction to continue sorting.
 
 It displays the array before and after sorting to help visualize how heap sort organizes the elements.
+
+---
+
+## 🔧 Features
