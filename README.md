@@ -17,3 +17,4 @@ It displays the array before and after sorting to help visualize how heap sort o
 - **Heap Data Structure**: Uses a max-heap to efficiently find the largest element.
 - **In-Place Sorting**: Requires only a small, constant amount of extra memory.
 - **Efficient Performance**: Time complexity of _O(n log n)_ in all cases.
+- **Fully Commented Code**: Clear explanations for each step of the algorithm.
