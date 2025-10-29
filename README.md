@@ -38,3 +38,5 @@ Sorted array:
 1. **Build a Max-Heap**
 
    - Rearrange the array so that every parent node is greater than its children.
+
+2. **Extract Maximum Element**
