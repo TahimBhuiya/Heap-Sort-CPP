@@ -15,3 +15,4 @@ It displays the array before and after sorting to help visualize how heap sort o
 ## 🔧 Features
 
 - **Heap Data Structure**: Uses a max-heap to efficiently find the largest element.
+- **In-Place Sorting**: Requires only a small, constant amount of extra memory.
