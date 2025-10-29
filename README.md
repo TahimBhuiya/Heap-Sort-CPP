@@ -25,3 +25,4 @@ It displays the array before and after sorting to help visualize how heap sort o
 
 **Input:**
 Original array:
+12 11 13 5 6 7
