@@ -40,3 +40,5 @@ Sorted array:
    - Rearrange the array so that every parent node is greater than its children.
 
 2. **Extract Maximum Element**
+
+   - Swap the first element (largest) with the last element in the heap.
