@@ -36,3 +36,5 @@ Sorted array:
 ## ⚙ How It Works
 
 1. **Build a Max-Heap**
+
+   - Rearrange the array so that every parent node is greater than its children.
