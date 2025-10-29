@@ -32,3 +32,5 @@ Sorted array:
 5 6 7 11 12 13
 
 ---
+
+## ⚙ How It Works
