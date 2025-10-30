@@ -48,3 +48,7 @@ Sorted array:
    - Reduce the heap size by one and restore the max-heap property.
 
 4. **Repeat**
+
+   - Continue extracting and heapifying until the entire array is sorted.
+
+---
