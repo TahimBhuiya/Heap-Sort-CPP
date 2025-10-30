@@ -52,3 +52,5 @@ Sorted array:
    - Continue extracting and heapifying until the entire array is sorted.
 
 ---
+
+## 🛠 How to Run
