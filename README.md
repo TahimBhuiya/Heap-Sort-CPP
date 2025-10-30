@@ -42,3 +42,5 @@ Sorted array:
 2. **Extract Maximum Element**
 
    - Swap the first element (largest) with the last element in the heap.
+
+3. **Heapify Reduced Heap**
