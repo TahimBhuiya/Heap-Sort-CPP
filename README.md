@@ -46,3 +46,5 @@ Sorted array:
 3. **Heapify Reduced Heap**
 
    - Reduce the heap size by one and restore the max-heap property.
+
+4. **Repeat**
