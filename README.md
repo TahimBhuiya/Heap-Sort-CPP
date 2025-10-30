@@ -58,3 +58,5 @@ Sorted array:
 ### You can run this code in two ways:
 
 ### 1️⃣ Using a local C++ compiler
+
+- Save the code as `heap_sort.cpp` or any name you prefer.
