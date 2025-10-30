@@ -44,3 +44,5 @@ Sorted array:
    - Swap the first element (largest) with the last element in the heap.
 
 3. **Heapify Reduced Heap**
+
+   - Reduce the heap size by one and restore the max-heap property.
