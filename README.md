@@ -64,7 +64,7 @@ Sorted array:
 * Compile and run it with your C++ compiler (e.g., Dev-C++, Code::Blocks, Visual Studio, g++):
 
 ```bash
-
+g++ heap_sort.cpp -o heap_sort
 
 
 
