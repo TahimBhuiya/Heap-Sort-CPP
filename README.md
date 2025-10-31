@@ -67,3 +67,5 @@ Sorted array:
 g++ heap_sort.cpp -o heap_sort
 ./heap_sort
 ```
+
+### 2️⃣ Using an online C++ compiler
